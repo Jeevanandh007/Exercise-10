@@ -1,3 +1,4 @@
+
 #Create a function which:
 #  has inFile and outFile as parameters (filenames as strings, not filehandles or lists)
 #  each line of the input file contains factors, space separated
